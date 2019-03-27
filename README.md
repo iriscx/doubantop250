@@ -1,0 +1,4 @@
+# doubantop250
+抓取豆瓣电影榜单TOP250
+
+利用PYthon的requests库和re库对网页文档进行简单的解析和抓取
